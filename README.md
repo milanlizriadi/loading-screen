@@ -11,7 +11,7 @@ cd loading-screen
 
 <br>
 
-Open Visual Studio Code
+## Open Visual Studio Code
 ```bash
 code .
 ```
